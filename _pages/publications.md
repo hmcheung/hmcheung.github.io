@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Peer-reviewed articles"
 permalink: /publications/
 author_profile: true
 ---
 
-# Peer-reviewed publications
 <b>Cheung, H. M.</b>, & Chu, J. E. (2023). <a href="https://www.nature.com/articles/s41612-023-00470-8" target="_blank">Global increase in destructive potential of extratropical transition events in response to greenhouse warming</a>. npj Climate and Atmospheric Science, 6(1), 137.
 <details>
 <summary>Abstract</summary>
