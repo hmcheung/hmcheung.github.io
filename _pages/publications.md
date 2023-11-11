@@ -30,7 +30,7 @@ The concept of Policy Relevant Background (PRB) ozone has emerged in recent year
 </sub>
 </details>
 <br>
-<b>Cheung, H. M.</b>, Ho, C. H., Chang, M., Kim, D., Kim, J., & Choi, W. (2021). [Development of a track-pattern-based medium-range tropical cyclone forecasting system for the western North Pacific](https://journals.ametsoc.org/view/journals/wefo/36/4/WAF-D-20-0102.1.xml). Weather and Forecasting, 36(4), 1505-1518.
+<b>Cheung, H. M.</b>, Ho, C. H., Chang, M., Kim, D., Kim, J., & Choi, W. (2021). [Development of a track-pattern-based medium-range tropical cyclone forecasting system for the western North Pacific](https://doi.org/10.1175/WAF-D-20-0102.1). Weather and Forecasting, 36(4), 1505-1518.
 <details>
 <summary>Abstract</summary>
 <sub>
