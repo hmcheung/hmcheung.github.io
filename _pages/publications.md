@@ -14,7 +14,7 @@ When tropical cyclones (TCs) move to the mid-latitudes, they oftentimes undergo 
 </sub>
 </details>
 <br>
-<b>Cheung, H. M.</b>, Ho, C. H., & Chang, M. (2022). Hybrid neural network models for postprocessing medium-range forecasts of tropical cyclone tracks over the western North Pacific. Artificial Intelligence for the Earth Systems, 1(4), e210003.
+<b>Cheung, H. M.</b>, Ho, C. H., & Chang, M. (2022). [Hybrid neural network models for postprocessing medium-range forecasts of tropical cyclone tracks over the western North Pacific](https://journals.ametsoc.org/view/journals/aies/1/4/AIES-D-21-0003.1.xml). Artificial Intelligence for the Earth Systems, 1(4), e210003.
 <details>
 <summary>Abstract</summary>
 <sub>
@@ -22,10 +22,18 @@ Tropical cyclone (TC) track forecasts derived from dynamical models inherit thei
 </sub>
 </details>
 <br>
-Lam, Y. F., & <b>Cheung, H. M.</b> (2022). Investigation of Policy Relevant Background (PRB) Ozone in East Asia. Atmosphere, 13(5), 723.
+Lam, Y. F., & <b>Cheung, H. M.</b> (2022). [Investigation of Policy Relevant Background (PRB) Ozone in East Asia](https://www.mdpi.com/2073-4433/13/5/723). Atmosphere, 13(5), 723.
 <details>
 <summary>Abstract</summary>
 <sub>
 The concept of Policy Relevant Background (PRB) ozone has emerged in recent years to address the air quality baseline on the theoretical limits of air pollution controls. In this study, the influence of Long-range Transport (LRT) of air pollutants from North America and the effect of Stratosphere-Troposphere Transport (STT) on PRB ozone was investigated using GEOS-Chem coupled WRF-CMAQ modelling system. Four distinct seasons in 2006 were simulated to understand better the seasonal and geographical impacts of these externalities on PRB ozone over East Asia (EA). Overall, the LRT impact from North America has been found to be ~0.54 ppbv, while the maximum impacts were found at the mountain stations with values of 2.3 ppbv, 3.3 ppbv, 2.3 ppbv, and 3.0 ppbv for January, April, July, and October, respectively. In terms of PRB ozone, the effect of STT has enhanced the surface background ozone by ~3.0 ppbv, with a maximum impact of 7.8 ppbv found in the northeastern part of East Asia (near Korea and Japan). Springtime (i.e., April) has the most vital STT signals caused by relatively cold weather and unstable atmospheric condition resulting from the transition of the monsoon season. The simulated PRB ozone based on the mean values of the maximum daily 8-h average (MDA8) is 53 ppbv for spring (April) and 22 ppbv for summer (July). Up to ~1.0 ppbv and ~2.2 ppbv of MDA8 ozone were attributed to LRT and STT, respectively. Among the selected cities, Beijing and Guangzhou have received the most substantial anthropogenic enhancement in MDA8 ozone in summer, ranging from 40.0 ppbv to 56.0 ppbv.
+</sub>
+</details>
+<br>
+<b>Cheung, H. M.</b>, Ho, C. H., Chang, M., Kim, D., Kim, J., & Choi, W. (2021). [Development of a track-pattern-based medium-range tropical cyclone forecasting system for the western North Pacific](https://journals.ametsoc.org/view/journals/wefo/36/4/WAF-D-20-0102.1.xml). Weather and Forecasting, 36(4), 1505-1518.
+<details>
+<summary>Abstract</summary>
+<sub>
+Despite tremendous advancements in dynamical models for weather forecasting, statistical models continue to offer various possibilities for tropical cyclone (TC) track forecasting. Herein, a track-pattern-based approach was developed to predict a TC track for a lead time of 6–8 days over the western North Pacific (WNP), utilizing historical tracks in conjunction with dynamical forecasts. It is composed of four main steps: 1) clustering historical tracks similar to that of an operational 5-day forecast in their early phase into track patterns, and calculating the daily mean environmental fields (500-hPa geopotential height and steering flow) associated with each track; 2) deriving the two environmental variables forecasted by dynamical models; 3) evaluating pattern correlation coefficients between the two environmental fields from step 1 and those from dynamical model for a lead times of 6–8 days; and 4) producing the final track forecast based on relative frequency maps obtained from the historical tracks in step 1 and the pattern correlation coefficients obtained from step 3. TCs that formed in the WNP and lasted for at least 7 days, during the 9-yr period 2011–19 were selected to verify the resulting track-pattern-based forecasts. In addition to the performance comparable to dynamical models under certain conditions, the track-pattern-based model is inexpensive, and can consistently produce forecasts over large latitudinal or longitudinal ranges. Machine learning techniques can be implemented to incorporate nonlinearity in the present model for improving medium-range track forecasts.
 </sub>
 </details>
