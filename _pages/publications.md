@@ -13,7 +13,6 @@ Abstract: When tropical cyclones (TCs) move to the mid-latitudes, they oftentime
 </sub>
 </details>
 <br>
-
 <details>
 <summary> <b>Cheung, H. M.</b>, Ho, C. H., & Chang, M. (2022). Hybrid neural network models for postprocessing medium-range forecasts of tropical cyclone tracks over the western North Pacific. Artificial Intelligence for the Earth Systems, 1(4), e210003.</summary>
 <sub>
@@ -21,7 +20,6 @@ Abstract: Tropical cyclone (TC) track forecasts derived from dynamical models in
 </sub>
 </details>
 <br>
-
 <details>
 <summary> Lam, Y. F., & <b>Cheung, H. M.</b> (2022). Investigation of Policy Relevant Background (PRB) Ozone in East Asia. Atmosphere, 13(5), 723.</summary>
 <sub>
