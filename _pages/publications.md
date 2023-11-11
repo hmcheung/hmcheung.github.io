@@ -10,7 +10,6 @@ author_profile: true
 **Cheung, H. M.**, & Chu, J. E. (2023). Global increase in destructive potential of extratropical transition events in response to greenhouse warming. npj Climate and Atmospheric Science, 6(1), 137.
 <details>
 <summary>Abstract</summary>
-<br>
 When tropical cyclones (TCs) move to the mid-latitudes, they oftentimes undergo extratropical transition (ET) by which they lose their symmetry and warm-core characteristics. Upon transforming into extratropical cyclones (ETCs), they tend to impact larger areas and thus larger populations. In light of the increased TC intensity due to global warming identified in previous studies, here we examine its effect on the frequency and destructiveness of ET events globally using a high-resolution fully coupled Earth System model (0.25° for atmosphere; 0.1° for ocean) prescribed with present-day, doubling, and quadrupling CO2 concentrations. Our findings indicate that ETCs originated from the tropics with higher destructiveness (indicated by integrated kinetic energy) become more frequent in response to greenhouse warming, although the number of ET events does not change significantly. The key factor in the change in the destructiveness of ETCs is the increase in wind speed and the high-wind area at ET. Despite the uncertainty in the Northern Hemisphere, our results underscore the necessity for climate resilience in the mid-latitudes against global warming.
 </details>
 <br>
