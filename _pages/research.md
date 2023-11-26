@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-My research mainly focus on tropical cyclones and their impacts.
+My research mainly focus on the track forecast and the impacts of tropical cyclones.
 
-1. <ins>Tropical cyclone track forecast using machine learning algorithms</ins>
+<ins>Tropical cyclone track forecast using machine learning algorithms</ins>
 
 
-2. <ins>Tropical cyclone and East Asian climate</ins>
+<ins>Tropical cyclone and East Asian climate</ins>
 
