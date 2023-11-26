@@ -10,5 +10,5 @@ My research mainly focus on the track forecast and the impacts of tropical cyclo
 <b><ins>Tropical cyclone track forecast using machine learning algorithms</ins></b>
 
 
-<b><ins>Tropical cyclone and East Asian climate</ins></b>
+<b><ins>Tropical cyclone and climate</ins></b>
 
