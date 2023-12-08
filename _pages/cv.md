@@ -11,6 +11,8 @@ My full CV can be downloaded [here](/files/cv_steven.pdf)
 
 ## Education
 
+---
+
 **2022 Ph.D. Atmospheric Science**,
 <br>Seoul National University, South Korea
 
@@ -21,6 +23,9 @@ My full CV can be downloaded [here](/files/cv_steven.pdf)
 <br>The University of Hong Kong, Hong Kong
 
 ## Research Experience
+
+---
+
 **2022 Aug—Present**
 <br>Postdoctoral researcher, City University of Hong Kong, Hong Kong
 - P.I.: Prof. Jung-Eun Chu
