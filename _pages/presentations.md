@@ -12,7 +12,7 @@ author_profile: true
 1. **Invited talk**, National Institute of Meteorological Sciences, Korea Meteorological Administration, October 2022 (Virtual)
 <br>*Medium-range forecast of tropical cyclone track over the western North Pacific: track-pattern-based model and artificial neural network model*
 
-1. **Invited talk**, Department of Geography, The University of Hong Kong, May 2011 (Virtual)
+1. **Invited talk**, Department of Geography, The University of Hong Kong, May 2021 (Virtual)
 <br>*Development of a track-pattern-based medium-range tropical cyclone forecasting system for the western North Pacific*
 
 1. Korean Meteorological Society Fall Meeting, October 2020 (Virtual)
