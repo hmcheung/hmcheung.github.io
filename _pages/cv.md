@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My full CV can be download [here](/files/cv_steven.pdf)
+My full CV can be downloaded [here](/files/cv_steven.pdf)
 
 ## Education
 
@@ -17,5 +17,23 @@ Seoul National University, South Korea
 **2010 M.Sc. Earth System Sciences**,
 The Chinese University of Hong Kong, Hong Kong
 
-**2009 B.Sc. Physics (minor in Computer Sciences)**,
+**2009 B.Sc. Physics (Minor in Computer Sciences)**,
 The University of Hong Kong, Hong Kong
+
+## Research Experience
+**2022 Aug – present**
+Postdoctoral researcher, City University of Hong Kong, Hong Kong
+- P.I.: Prof. Jung-Eun Chu
+
+**2022 Jun – Aug**
+Research assistant, The University of Hong Kong, Hong Kong
+- P.I.: Dr. Yun Fat Lam
+
+**2018 - 22**
+Ph.D. candidate, Seoul National University, South Korea
+- Supervisor: Prof. Chang-Hoi Ho
+
+**2012 – 2014**
+Research assistant, City University of Hong Kong, Hong Kong
+- P.I.: Dr. Yun Fat Lam
+
