@@ -12,13 +12,13 @@ My full CV can be downloaded [here](/files/cv_steven.pdf)
 ## Education
 
 **2022 Ph.D. Atmospheric Science**,
-Seoul National University, South Korea
+<br>Seoul National University, South Korea
 
 **2010 M.Sc. Earth System Sciences**,
-The Chinese University of Hong Kong, Hong Kong
+<br>The Chinese University of Hong Kong, Hong Kong
 
 **2009 B.Sc. Physics (Minor in Computer Sciences)**,
-The University of Hong Kong, Hong Kong
+<br>The University of Hong Kong, Hong Kong
 
 ## Research Experience
 **2022 Aug – present**
