@@ -21,19 +21,19 @@ My full CV can be downloaded [here](/files/cv_steven.pdf)
 <br>The University of Hong Kong, Hong Kong
 
 ## Research Experience
-**2022 Aug – present**
+**2022 Aug—Present**
 <br>Postdoctoral researcher, City University of Hong Kong, Hong Kong
 - P.I.: Prof. Jung-Eun Chu
 
-**2022 Jun – Aug**
+**2022 Jun—Aug**
 <br>Research assistant, The University of Hong Kong, Hong Kong
 - P.I.: Dr. Yun Fat Lam
 
-**2018 - 22**
+**2018—22**
 <br>Ph.D. candidate, Seoul National University, South Korea
 - Supervisor: Prof. Chang-Hoi Ho
 
-**2012 – 2014**
+**2012—2014**
 <br>Research assistant, City University of Hong Kong, Hong Kong
 - P.I.: Dr. Yun Fat Lam
 
