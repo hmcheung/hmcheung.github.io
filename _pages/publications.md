@@ -19,6 +19,6 @@ author_profile: true
    
 1. Chan, K. L., Hartl, A., Lam, Y. F., Xie*, P. H., Liu, W. Q., <b>Cheung, H. M.</b>, ... & Wenig, M. O. (2015). <a href="https://doi.org/10.1016/j.atmosenv.2015.08.041" target="_blank">Observations of tropospheric NO2 using ground based MAX-DOAS and OMI measurements during the Shanghai World Expo 2010</a>. _Atmospheric Environment_, 119, 45-58. 
    
-1. Kuhlmann, G.*, Lam, Y. F.*, <b>Cheung, H. M.</b>, Hartl, A., Fung, J. C. H., Chan, P. W., & Wenig, M. O. (2015). <a href="https://doi.org/10.5194/acp-15-5627-2015" target="_blank">Development of a custom OMI NO 2 data product for evaluating biases in a regional chemistry transport model</a>. _Atmospheric Chemistry and Physics_, 15(10), 5627-5644.
+1. Kuhlmann, G.* , Lam, Y. F.*, <b>Cheung, H. M.</b>, Hartl, A., Fung, J. C. H., Chan, P. W., & Wenig, M. O. (2015). <a href="https://doi.org/10.5194/acp-15-5627-2015" target="_blank">Development of a custom OMI NO 2 data product for evaluating biases in a regional chemistry transport model</a>. _Atmospheric Chemistry and Physics_, 15(10), 5627-5644.
    
 1. Kuhlmann, G., Hartl, A., <b>Cheung, H. M.</b>, Lam, Y. F.*, & Wenig, M. O. (2014). <a href="https://doi.org/10.5194/amt-7-451-2014" target="_blank">A novel gridding algorithm to create regional trace gas maps from satellite observations</a>. _Atmospheric Measurement Techniques_, 7(2), 451-467.
