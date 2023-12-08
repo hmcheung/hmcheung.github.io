@@ -7,4 +7,15 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/cv_steven.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+My full CV can be download [here](/files/cv_steven.pdf)
+
+## Education
+
+**2022 Ph.D. Atmospheric Science**,
+Seoul National University, South Korea
+
+**2010 M.Sc. Earth System Sciences**,
+The Chinese University of Hong Kong, Hong Kong
+
+**2009 B.Sc. Physics (minor in Computer Sciences)**,
+The University of Hong Kong, Hong Kong
