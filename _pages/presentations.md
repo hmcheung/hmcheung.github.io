@@ -7,7 +7,7 @@ author_profile: true
 
 
 1. European Geosciences Union General Assembly, April 2023 (Vienna, Austria)
-<br>*Increasing destructive potential of extratropical transition events in response to higher CO2 concentration in global climate model*
+<br> > *Increasing destructive potential of extratropical transition events in response to higher CO2 concentration in global climate model*
 
 1. **Invited talk**, National Institute of Meteorological Sciences, Korea Meteorological Administration, October 2022 (Virtual)
 <br>*Medium-range forecast of tropical cyclone track over the western North Pacific: track-pattern-based model and artificial neural network model*
