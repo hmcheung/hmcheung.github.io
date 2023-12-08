@@ -38,7 +38,12 @@ My full CV can be downloaded [here](/files/cv_steven.pdf)
 <br>Ph.D. candidate, Seoul National University, South Korea
 - Supervisor: Prof. Chang-Hoi Ho
 
-**2012—2014**
-<br>Research assistant, City University of Hong Kong, Hong Kong
-- P.I.: Dr. Yun Fat Lam
+## Skills
 
+---
+
+- Unix shell: bash and csh
+- Numerical models: compile and run WRF, CMAQ, and CESM (including required libraries)
+- Programming tools: Python, NCL, FORTRAN, MATLAB, GrADS, IDL, C++, LabVIEW
+- Deep learning API: Keras, Tensorflow
+- Language: native in Cantonese, fluent in English and Mandarin
