@@ -5,4 +5,5 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: huncheung4[at]cityu[dot]edu[dot]hk
+Feel free to contact me by Email for any question!
+Email: huncheung4 [at] cityu.edu.hk
