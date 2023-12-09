@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
----
+<hr style="border:2px solid gray">
 
 **2022 Ph.D. Atmospheric Sciences**,
 <br>Seoul National University, South Korea
@@ -24,7 +24,7 @@ redirect_from:
 
 ## Research Experience
 
----
+<hr style="border:2px solid gray">
 
 **2022 August—Present**
 <br>Postdoctoral researcher, City University of Hong Kong, Hong Kong
@@ -34,17 +34,13 @@ redirect_from:
 <br>Research assistant, The University of Hong Kong, Hong Kong
 - P.I.: Dr. Yun Fat Lam
 
-**2018—22**
-<br>Ph.D. candidate, Seoul National University, South Korea
-- Supervisor: Prof. Chang-Hoi Ho
-
 **2012—2014**
 <br>Research assistant, City University of Hong Kong, Hong Kong
 - P.I.: Dr. Yun Fat Lam
 
 ## Skills
 
----
+<hr style="border:2px solid gray">
 
 - Unix shell: bash and csh
 - Programming languages: Python, NCL, FORTRAN, MATLAB, GrADS, IDL, C++, LabVIEW
