@@ -31,3 +31,4 @@ Air pollution and TC track change
 ---
 
 Extratropical transition
+(https://communities.springernature.com/posts/greenhouse-warming-can-lead-to-greater-destructiveness-in-the-mid-latitudes-by-tropical-cyclones)
