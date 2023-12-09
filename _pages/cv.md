@@ -43,7 +43,7 @@ redirect_from:
 ---
 
 - Unix shell: bash and csh
-- Numerical models: compile and run WRF, CMAQ, and CESM (including required libraries)
 - Programming languages: Python, NCL, FORTRAN, MATLAB, GrADS, IDL, C++, LabVIEW
 - Deep learning API: Keras, Tensorflow
+- Numerical models: compile and run WRF, CMAQ, and CESM (including required libraries)
 - Language: native in Cantonese, fluent in English and Mandarin
