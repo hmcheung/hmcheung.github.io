@@ -32,8 +32,7 @@ In addition to the EASM, TCs are another major contributor to summer rainfall ov
 <br>
 <ins>Air pollution and TC track change</ins>
 
-[to be filled]
-
+Various studies have confirmed that a TC at a distance from Hong Kong can create conducive conditions for regional air pollutant episodes (light northerly for pollutant transport, subsidence unfavorable for pollutant dispersion, and increased air temperature for ozone formation). Our study further verifies the impact of TCs on local air quality on a climate scale by investigating the influence of the change in the prevailing TC track over the western North Pacific.
 
 <br>Article: 
 
