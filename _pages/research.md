@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 My research mainly focuses on the track forecast and the impacts of tropical cyclones (TCs).
+- [Machine learning models for tropical cyclone track forecast](#machine-learning-models-for-tropical-cyclone-track-forecast)
+- [Regional impacts of tropical cyclones](#regional-impacts-of-tropical-cyclones)
+- [Extratropical transition](#extratropical-transition)
+
+<hr style="border:2px solid gray">
 
 ## Machine learning models for tropical cyclone track forecast
 
@@ -42,7 +47,7 @@ Lam, Y. F., Cheung, H. M., & Ying, C. C. (2018). <a href="https://doi.org/10.101
 
 <hr style="border:2px solid gray">
 
-## An end of tropical cyclones: extratropical transition
+## Extratropical transition
 
 ![An example of tropical cyclone and extratropical cyclone](/assets/tc_etc.png)
 
