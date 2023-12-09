@@ -15,7 +15,7 @@ The first model (track-pattern-based model) applies a clustering method on hist
 
 ![Schematic of the track-pattern-based model and deep learning model](/assets/ml_tc.png)
 
-<br>Article: 
+<br>Related article: 
 
 Cheung, H. M., Ho, C. H., Chang, M., Kim, D., Kim, J., & Choi, W. (2021). <a href="https://doi.org/10.1175/WAF-D-20-0102.1" target="_blank">Development of a track-pattern-based medium-range tropical cyclone forecasting system for the western North Pacific</a>. _Weather and Forecasting_, 36(4), 1505-1518.
 
@@ -34,7 +34,7 @@ In addition to the EASM, TCs are another major contributor to summer rainfall ov
 
 Various studies have confirmed that a TC at a distance from Hong Kong can create conducive conditions for regional air pollutant episodes (light northerly for pollutant transport, subsidence unfavorable for pollutant dispersion, and increased air temperature for ozone formation). Our study further verifies the impact of TCs on local air quality on a climate scale by investigating the influence of the change in the prevailing TC track over the western North Pacific.
 
-<br>Article: 
+<br>Related article: 
 
 Cheung, H. M., Ho, C. H., Jhun, J. G., Park, D. S. R., & Yang, S. (2018). <a href="https://doi.org/10.1007/s00382-017-4014-1" target="_blank">Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years</a>. _Climate Dynamics_, 51, 2311-2320.
 
@@ -50,6 +50,6 @@ When TCs move to the mid-latitudes, they oftentimes undergo extratropical transi
 
 <a href="https://communities.springernature.com/posts/greenhouse-warming-can-lead-to-greater-destructiveness-in-the-mid-latitudes-by-tropical-cyclones" target="_blank">Blog post</a>
 
-<br>Article:
+<br>Related article:
 
 Cheung, H. M., & Chu, J. E. (2023). <a href="https://www.nature.com/articles/s41612-023-00470-8" target="_blank">Global increase in destructive potential of extratropical transition events in response to greenhouse warming</a>. _npj Climate and Atmospheric Science_, 6(1), 137.
