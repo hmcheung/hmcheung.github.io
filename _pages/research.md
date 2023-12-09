@@ -13,6 +13,8 @@ Physical models have long been the tool for making weather forecasts. Owing to t
 
 The first model (track-pattern-based model) applies a clustering method on historical TC tracks similar to an operational forecast track; makes predictions based on each track pattern; and combines the forecast for each track pattern to form the final forecast. The second model uses different classes of artificial neural networks in concert to correct the TC track predicted by a US global weather forecast model (GEFS). The neural network model is improved by including a shortcut connection, feature selection, and hyperparameter tuning.
 
+![ML_TC](/assets/ml_tc.png)
+
 <br>Article: 
 
 Cheung, H. M., Ho, C. H., Chang, M., Kim, D., Kim, J., & Choi, W. (2021). <a href="https://doi.org/10.1175/WAF-D-20-0102.1" target="_blank">Development of a track-pattern-based medium-range tropical cyclone forecasting system for the western North Pacific</a>. _Weather and Forecasting_, 36(4), 1505-1518.
