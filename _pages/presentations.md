@@ -7,7 +7,7 @@ author_profile: true
 
 
 1. European Geosciences Union General Assembly, April 2023 (Vienna, Austria)
-<br>*Increasing destructive potential of extratropical transition events in response to higher CO2 concentration in global climate model*
+<br>*<a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-4736.html" target="_blank">Increasing destructive potential of extratropical transition events in response to higher CO2 concentration in global climate model</a>*
 
 1. **Invited talk**, National Institute of Meteorological Sciences, Korea Meteorological Administration, October 2022 (Virtual)
 <br>*Medium-range forecast of tropical cyclone track over the western North Pacific: track-pattern-based model and artificial neural network model*
@@ -28,7 +28,7 @@ author_profile: true
 <br>*Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years*
 
 1. European Geosciences Union General Assembly, April 2018 (Vienna, Austria)
-<br>*Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years*
+<br>*<a href="https://meetingorganizer.copernicus.org/EGU2018/EGU2018-11784.pdf" target="_blank">Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years</a>*
 
 1. Asia Oceania Geosciences Society Annual Meeting, August 2016 (Beijing, China)
 <br>*Tropical cyclone-induced rainfall variability under the influence of East Asian Summer Monsoon* 
