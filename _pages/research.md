@@ -32,7 +32,7 @@ The first model (track-pattern-based model) applies a clustering method on hist
 
 <ins>TC rainfall and East Asian Summer Monsoon (EASM)</ins>
 
-In addition to the EASM, TCs are another major contributor to summer rainfall over East Asia, especially for the coastal region. This study analyzes the contribution of TCs to summer rainfall in the years of strong versus weak Changma/Baiu, which is the monsoon season in Korea/Japan.
+In addition to the EASM, TCs are another major contributor to summer rainfall over East Asia, especially the coastal region. This study analyzes the contribution of TCs to summer rainfall in the years of strong versus weak Changma/Baiu, which is the monsoon season in Korea/Japan.
 
 <br>
 <ins>Air pollution and TC track change</ins>
