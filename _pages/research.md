@@ -13,7 +13,7 @@ Physical models have long been the tool for making weather forecasts. Owing to t
 
 The first model (track-pattern-based model) applies a clustering method on historical TC tracks similar to an operational forecast track; makes predictions based on each track pattern; and combines the forecast for each track pattern to form the final forecast. The second model uses different classes of artificial neural networks in concert to correct the TC track predicted by a US global weather forecast model (GEFS). The neural network model is improved by including a shortcut connection, feature selection, and hyperparameter tuning.
 
-![ML_TC](/assets/ml_tc.png)
+![Schematic of the track-pattern-based model and deep learning model](/assets/ml_tc.png)
 
 <br>Article: 
 
@@ -46,8 +46,8 @@ Lam, Y. F., Cheung, H. M., & Ying, C. C. (2018). <a href="https://doi.org/10.101
 
 When TCs move to the mid-latitudes, they oftentimes undergo extratropical transition (ET) by which they change their structure. Upon transforming into extratropical cyclones (ETCs), they tend to impact larger areas and thus larger populations. In our study, we used a state-of-the-art Earth system model to examine the changes in global ET activities under increased concentrations (doubling and quadrupling) of CO<sub>2</sub> in the atmosphere. Our study highlights the possibility of a heightened impact from the transitioned TCs in the mid-latitude region due to human-induced global warming. 
 
-<a href="https://communities.springernature.com/posts/greenhouse-warming-can-lead-to-greater-destructiveness-in-the-mid-latitudes-by-tropical-cyclones">Blog post</a>
-
+<a href="https://communities.springernature.com/posts/greenhouse-warming-can-lead-to-greater-destructiveness-in-the-mid-latitudes-by-tropical-cyclones" target="_blank">Blog post</a>
+![An example of tropical cyclone and extratropical cyclone](/assets/tc_etc.png)
 <br>Article:
 
 Cheung, H. M., & Chu, J. E. (2023). <a href="https://www.nature.com/articles/s41612-023-00470-8" target="_blank">Global increase in destructive potential of extratropical transition events in response to greenhouse warming</a>. _npj Climate and Atmospheric Science_, 6(1), 137.
