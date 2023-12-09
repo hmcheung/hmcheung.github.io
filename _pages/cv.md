@@ -13,24 +13,24 @@ redirect_from:
 
 ---
 
-**2022 Ph.D. Atmospheric Science**,
+**2022 Ph.D. Atmospheric Sciences**,
 <br>Seoul National University, South Korea
 
-**2010 M.Sc. Earth System Sciences**,
+**2010 M.Sc. Earth System Science**,
 <br>The Chinese University of Hong Kong, Hong Kong
 
-**2009 B.Sc. Physics (Minor in Computer Sciences)**,
+**2009 B.Sc. Physics (Minor in Computer Science)**,
 <br>The University of Hong Kong, Hong Kong
 
 ## Research Experience
 
 ---
 
-**2022 Aug—Present**
+**2022 August—Present**
 <br>Postdoctoral researcher, City University of Hong Kong, Hong Kong
 - P.I.: Prof. Jung-Eun Chu
 
-**2022 Jun—Aug**
+**2022 June—August**
 <br>Research assistant, The University of Hong Kong, Hong Kong
 - P.I.: Dr. Yun Fat Lam
 
