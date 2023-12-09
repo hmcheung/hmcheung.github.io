@@ -43,9 +43,9 @@ Lam, Y. F., Cheung, H. M., & Ying, C. C. (2018). <a href="https://doi.org/10.101
 
 ---
 
-## The end of tropical cyclones: extratropical transition
+## An end of tropical cyclones: extratropical transition
 
-When TCs move to the mid-latitudes, they oftentimes undergo extratropical transition (ET) by which they change their structure. Upon transforming into extratropical cyclones (ETCs), they tend to impact larger areas and thus larger populations. In our study, we used a state-of-the-art Earth system model to examine the changes in global ET activities under increased concentrations (doubling and quadrupling) of carbon dioxide (CO2) in the atmosphere. Our study highlights the possibility of a heightened impact from the transitioned TCs in the mid-latitude region due to human-induced global warming. 
+When TCs move to the mid-latitudes, they oftentimes undergo extratropical transition (ET) by which they change their structure. Upon transforming into extratropical cyclones (ETCs), they tend to impact larger areas and thus larger populations. In our study, we used a state-of-the-art Earth system model to examine the changes in global ET activities under increased concentrations (doubling and quadrupling) of CO<sub>2</sub> in the atmosphere. Our study highlights the possibility of a heightened impact from the transitioned TCs in the mid-latitude region due to human-induced global warming. 
 
 <a href="https://communities.springernature.com/posts/greenhouse-warming-can-lead-to-greater-destructiveness-in-the-mid-latitudes-by-tropical-cyclones">Blog post</a>
 
