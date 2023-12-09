@@ -44,6 +44,6 @@ My full CV can be downloaded [here](/files/cv_steven.pdf)
 
 - Unix shell: bash and csh
 - Numerical models: compile and run WRF, CMAQ, and CESM (including required libraries)
-- Programming tools: Python, NCL, FORTRAN, MATLAB, GrADS, IDL, C++, LabVIEW
+- Programming languages: Python, NCL, FORTRAN, MATLAB, GrADS, IDL, C++, LabVIEW
 - Deep learning API: Keras, Tensorflow
 - Language: native in Cantonese, fluent in English and Mandarin
