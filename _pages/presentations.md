@@ -28,7 +28,7 @@ author_profile: true
 <br>*Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years*
 
 1. European Geosciences Union General Assembly, April 2018 (Vienna, Austria)
-<br>*<a href="https://meetingorganizer.copernicus.org/EGU2018/EGU2018-11784.pdf" target="_blank">Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years</a>*
+<br>*<a href="https://meetingorganizer.copernicus.org/EGU2018/EGU2018-11784.pdf" target="_blank">Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years</a>* (Poster)
 
 1. Asia Oceania Geosciences Society Annual Meeting, August 2016 (Beijing, China)
 <br>*Tropical cyclone-induced rainfall variability under the influence of East Asian Summer Monsoon* 
