@@ -21,7 +21,7 @@ Cheung, H. M., Ho, C. H., Chang, M., Kim, D., Kim, J., & Choi, W. (2021). <a hre
 
 Cheung, H. M., Ho, C. H., & Chang, M. (2022). <a href="https://journals.ametsoc.org/view/journals/aies/1/4/AIES-D-21-0003.1.xml" target="_blank">Hybrid neural network models for postprocessing medium-range forecasts of tropical cyclone tracks over the western North Pacific</a>. _Artificial Intelligence for the Earth Systems_, 1(4), e210003.
 
----
+<hr style="border:2px solid gray">
 
 ## Regional impacts of tropical cyclones
 
@@ -41,7 +41,7 @@ Cheung, H. M., Ho, C. H., Jhun, J. G., Park, D. S. R., & Yang, S. (2018). <a hre
 
 Lam, Y. F., Cheung, H. M., & Ying, C. C. (2018). <a href="https://doi.org/10.1016/j.scitotenv.2017.08.100" target="_blank">Impact of tropical cyclone track change on regional air quality</a>. _Science of the Total Environment_, 610, 1347-1355.
 
----
+<hr style="border:2px solid gray">
 
 ## An end of tropical cyclones: extratropical transition
 
