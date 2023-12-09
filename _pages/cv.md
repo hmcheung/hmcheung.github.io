@@ -38,6 +38,10 @@ redirect_from:
 <br>Ph.D. candidate, Seoul National University, South Korea
 - Supervisor: Prof. Chang-Hoi Ho
 
+**2012—2014**
+<br>Research assistant, City University of Hong Kong, Hong Kong
+- P.I.: Dr. Yun Fat Lam
+
 ## Skills
 
 ---
