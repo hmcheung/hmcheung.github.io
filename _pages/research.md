@@ -13,7 +13,7 @@ Physical models have long been the tool for making weather forecasts. Owing to t
 
 In the first study, I developed a track-pattern-based model: applying a clustering method on historical TC tracks similar to an operational forecast track; making predictions based on each track pattern; and combining the forecast for each track pattern to form the final forecast.
 
-In the second study, 
+In the second study, [to be filled]
 
 <br>Article: 
 
@@ -25,9 +25,15 @@ Cheung, H. M., Ho, C. H., & Chang, M. (2022). <a href="https://journals.ametsoc.
 
 ## Regional impacts of tropical cyclones
 
-TC rainfall and EASM
+<ins>TC rainfall and East Asian Summer Monsoon (EASM)</ins>
 
-Air pollution and TC track change
+In addition to the EASM, TCs are another major contributor to summer rainfall over East Asia, especially for the coastal region. This study analyzes the contribution of TCs to summer rainfall in the years of strong versus weak Changma/Baiu, which is the monsoon season in Korea/Japan.
+
+<br>
+<ins>Air pollution and TC track change</ins>
+
+[to be filled]
+
 
 <br>Article: 
 
