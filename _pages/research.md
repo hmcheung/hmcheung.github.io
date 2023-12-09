@@ -32,12 +32,12 @@ The first model (track-pattern-based model) applies a clustering method on hist
 
 <ins>TC rainfall and East Asian Summer Monsoon (EASM)</ins>
 
-In addition to the EASM, TCs are another major contributor to summer rainfall over East Asia, especially the coastal region. This study analyzes the contribution of TCs to summer rainfall in the years of strong versus weak Changma/Baiu, which is the monsoon season in Korea/Japan.
+In addition to the EASM, TCs are another major contributor to summer rainfall over East Asia, especially the coastal region. The variability of TC-induced rainfall and monsoonal rainfall strongly modulates the hydrological cycle and related climate risk in the region. This study analyzes the contribution of TCs to summer rainfall in the years of strong versus weak Changma/Baiu, which is the monsoon season in Korea/Japan. The possible large-scale driver of the variability of TC- and non-TC-induced rainfall is also examined.
 
 <br>
 <ins>Air pollution and TC track change</ins>
 
-Various studies have confirmed that a TC at a distance from Hong Kong can create conducive conditions for regional air pollutant episodes (light northerly for pollutant transport, subsidence unfavorable for pollutant dispersion, and increased air temperature for ozone formation). Our study further verifies the impact of TCs on local air quality on a climate scale by investigating the influence of the change in the prevailing TC track over the western North Pacific.
+Various studies have confirmed that a TC at a distance from Hong Kong can create conducive conditions for regional air pollutant episodes (light northerly for pollutant transport, subsidence unfavorable for pollutant dispersion, and increased air temperature for ozone formation). Our study verifies the impact of TCs on local air quality in summer on a climate scale by investigating the influence of the change in the prevailing TC track over the western North Pacific.
 
 <br>Related article: 
 
