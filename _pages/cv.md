@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-My full CV can be downloaded [here](/files/cv_steven.pdf)
+(My full CV can be downloaded [here](/files/cv_steven.pdf))
 
 ## Education
 
