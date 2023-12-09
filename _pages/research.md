@@ -15,7 +15,12 @@ Physical models have long been the tool for making weather forecasts. Owing to t
 
 In the first study, I developed a track-pattern-based model: applying a clustering method on historical TC tracks similar to an operational forecast track; making predictions based on each track pattern; and combining the forecast for each track pattern to form the final forecast.
 
+Article: 
+
 In the second study, 
+
+Article: 
+
 
 ## Regional impacts of tropical cyclones
 
@@ -23,7 +28,11 @@ In the second study,
 
 TC rainfall and EASM
 
+Article: 
+
 Air pollution and TC track change
+
+Article: 
 
 
 ## The end of tropical cyclones: extratropical transition
@@ -31,4 +40,7 @@ Air pollution and TC track change
 ---
 
 When TCs move to the mid-latitudes, they oftentimes undergo extratropical transition (ET) by which they change their structure. Upon transforming into extratropical cyclones (ETCs), they tend to impact larger areas and thus larger populations. In our study, we used a state-of-the-art Earth system model to examine the changes in global ET activities under increased concentrations (doubling and quadrupling) of carbon dioxide (CO2) in the atmosphere. Our study highlights the possibility of a heightened impact from the transitioned TCs in the mid-latitude region due to human-induced global warming. 
+
 <a href="https://communities.springernature.com/posts/greenhouse-warming-can-lead-to-greater-destructiveness-in-the-mid-latitudes-by-tropical-cyclones">Blog post</a>
+
+Article: Cheung, H. M., & Chu, J. E.* (2023). <a href="https://www.nature.com/articles/s41612-023-00470-8" target="_blank">Global increase in destructive potential of extratropical transition events in response to greenhouse warming</a>. _npj Climate and Atmospheric Science_, 6(1), 137.
