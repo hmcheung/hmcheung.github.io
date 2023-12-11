@@ -27,16 +27,19 @@ redirect_from:
 <hr style="border:2px solid gray">
 
 **2022 August—Present**
-<br>Postdoctoral researcher, City University of Hong Kong, Hong Kong
-- P.I.: Prof. Jung-Eun Chu
+<br>**Postdoctoral Researcher**
+<br>City University of Hong Kong, Hong Kong
+<br>P.I.: Prof. Jung-Eun Chu
 
 **2022 June—August**
-<br>Research assistant, The University of Hong Kong, Hong Kong
-- P.I.: Dr. Yun Fat Lam
+<br>**Research Assistant**
+<br>The University of Hong Kong, Hong Kong
+<br>P.I.: Dr. Yun Fat Lam
 
 **2012—2014**
-<br>Research assistant, City University of Hong Kong, Hong Kong
-- P.I.: Dr. Yun Fat Lam
+<br>**Research Assistant**
+<br>City University of Hong Kong, Hong Kong
+<br>P.I.: Dr. Yun Fat Lam
 
 ## Skills
 
