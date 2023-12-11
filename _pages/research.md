@@ -34,7 +34,7 @@ In addition to the East Asian Summer Monsoon, TCs are another major contributor 
 <br>
 
 <ins>Air pollution</ins>
-<br>Numerous studies have confirmed that a TC at a distance from Hong Kong can create favorable conditions for regional air pollutant episodes (light northerly for pollutant transport, subsidence unfavorable for pollutant dispersion, and increased insolation for enhanced photochemical reaction). These TC-induced episodes can cause higher pollutant concentrations than the others. Our study verifies the impact of TCs on local air quality in summer on a climate scale by investigating the influence of the change in the prevailing TC track over the western North Pacific.
+<br>Numerous studies confirm that a TC near Luzon Strait or Taiwan can create favorable conditions for regional air pollutant episodes (light northerly for pollutant transport, subsidence unfavorable for pollutant dispersion, and increased insolation for enhanced photochemical reaction). These TC-induced episodes can cause higher pollutant concentrations than the others. Our study verifies the impact of TCs on local air quality in summer on a climate scale by investigating the influence of the change in the prevailing TC track over the western North Pacific.
 
 <br>Related article:
 - Cheung, H. M., Ho, C. H., Jhun, J. G., Park, D. S. R., & Yang, S. (2018). <a href="https://doi.org/10.1007/s00382-017-4014-1" target="_blank">Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years</a>. _Climate Dynamics_, 51, 2311-2320.
