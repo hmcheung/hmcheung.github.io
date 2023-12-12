@@ -13,13 +13,13 @@ redirect_from:
 
 <hr style="border:2px solid gray">
 
-**2022 Ph.D. Atmospheric Sciences**,
+**2022 Ph.D. Atmospheric Sciences**
 <br>Seoul National University, South Korea
 
-**2010 M.Sc. Earth System Science**,
+**2010 M.Sc. Earth System Science**
 <br>The Chinese University of Hong Kong, Hong Kong
 
-**2009 B.Sc. Physics (Minor in Computer Science)**,
+**2009 B.Sc. Physics (Minor in Computer Science)**
 <br>The University of Hong Kong, Hong Kong
 
 ## Research Experience
