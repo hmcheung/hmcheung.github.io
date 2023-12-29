@@ -31,6 +31,7 @@ The first model (track-pattern-based model) applies the fuzzy _c_-mean clusteri
 <ins>Hydrological impact</ins>
 <br>
 In addition to the East Asian Summer Monsoon, TCs are another major contributor to summer rainfall over East Asia, especially the coastal region. The variability of both TC-induced rainfall and monsoonal rainfall strongly modulates the hydrological cycle and related climate risk in the region. This study analyzes the contribution of TCs to the variability of summertime rainfall in the years of strong versus weak Changma/Baiu (the monsoon season in Korea/Japan). The possible large-scale driver of TC- and non-TC-induced rainfall variability is also examined.
+![Differences in TC and non-TC rainfall between strong and weak Changma/Baiu years](/assets/tc_rain.png)
 <br>
 
 <ins>Air pollution</ins>
