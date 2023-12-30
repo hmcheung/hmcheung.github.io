@@ -38,6 +38,8 @@ In addition to the East Asian Summer Monsoon, TCs are another major contributor 
 <ins>Air pollution</ins>
 <br>Numerous studies confirm that a TC near Luzon Strait or Taiwan can create favorable conditions for regional air pollutant episodes (light northerly for pollutant transport, subsidence unfavorable for pollutant dispersion, and increased insolation for enhanced photochemical reaction). These TC-induced episodes can cause higher pollutant concentrations than the others. Our study verifies the impact of TCs on local air quality in summer on a climate scale by investigating the influence of the change in the prevailing TC track over the western North Pacific.
 
+![How typhoon induce air pollution episode](/assets/tc_aq.jpg)
+
 <br>Related article:
 - Cheung, H. M., Ho, C. H., Jhun, J. G., Park, D. S. R., & Yang, S. (2018). <a href="https://doi.org/10.1007/s00382-017-4014-1" target="_blank">Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years</a>. _Climate Dynamics_, 51, 2311-2320.
 - Lam, Y. F., Cheung, H. M., & Ying, C. C. (2018). <a href="https://doi.org/10.1016/j.scitotenv.2017.08.100" target="_blank">Impact of tropical cyclone track change on regional air quality</a>. _Science of the Total Environment_, 610, 1347-1355.
@@ -48,7 +50,7 @@ In addition to the East Asian Summer Monsoon, TCs are another major contributor 
 
 ![An example of tropical cyclone and extratropical cyclone](/assets/tc_etc.png)
 
-When TCs move to the mid-latitudes, they oftentimes undergo extratropical transition (ET) by which they change their structure. Upon transforming into extratropical cyclones (ETCs), they tend to impact larger areas and thus larger populations. In our study, we used a state-of-the-art Earth system model to examine the changes in global ET activities under increased concentrations (doubling and quadrupling) of CO<sub>2</sub> in the atmosphere, with a focus on the destructiveness of the transitioned storms. 
+When TCs move to the mid-latitudes, they oftentimes undergo extratropical transition (ET) by which they change their structure. Upon transforming into extratropical cyclones (ETCs), they tend to impact larger areas and thus larger populations. In our study, we used a state-of-the-art Earth system model to examine the changes in global ET activities under increased concentrations of CO<sub>2</sub> in the atmosphere, with a focus on the destructiveness of the transitioned storms. 
 
 Also read this <a href="https://communities.springernature.com/posts/greenhouse-warming-can-lead-to-greater-destructiveness-in-the-mid-latitudes-by-tropical-cyclones" target="_blank">blog post</a>
 
