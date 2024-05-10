@@ -26,7 +26,7 @@ redirect_from:
 
 <hr style="border:2px solid gray">
 
-**2022 August—Present**
+**2022 August—2024 April**
 <br>**Postdoctoral Researcher**
 <br>City University of Hong Kong, Hong Kong
 <br>P.I.: Prof. Jung-Eun Chu
