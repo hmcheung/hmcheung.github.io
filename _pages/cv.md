@@ -26,6 +26,11 @@ redirect_from:
 
 <hr style="border:2px solid gray">
 
+**2024 June—Present**
+<br>**Research Professor**
+<br>Ewha Womans University, South Korea
+<br>P.I.: Prof. Chang-Hoi Ho
+
 **2022 August—2024 April**
 <br>**Postdoctoral Researcher**
 <br>City University of Hong Kong, Hong Kong
