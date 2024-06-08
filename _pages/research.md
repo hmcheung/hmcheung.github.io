@@ -6,23 +6,9 @@ author_profile: true
 ---
 
 My research mainly focuses on the track forecast and the impacts of tropical cyclones (TCs) over East Asia.
-- [Machine learning models for tropical cyclone track forecast](#machine-learning-models-for-tropical-cyclone-track-forecast)
 - [Impacts of tropical cyclones](#impacts-of-tropical-cyclones)
 - [Extratropical transition](#extratropical-transition)
-
-<hr style="border:2px solid gray">
-
-## Machine learning models for tropical cyclone track forecast
-
-Physical models have long been the tool for making weather forecasts. Owing to the advancement of computer resources and the availability of tremendous amount of data, machine learning algorithms for weather forecast has gained popularity in recent years. During my PhD, I developed two machine learning models for improving TC track forecast in the medium range (forecast lead time >5 days). 
-
-The first model (track-pattern-based model) applies the fuzzy _c_-mean clustering method on historical TC tracks similar to an operational 5-day forecast track; makes predictions based on each track pattern; and combines the forecast for each track pattern to form the final forecast. The second model uses different classes of artificial neural networks in concert to correct the TC track predicted by a global weather forecast model (GEFS). The neural network model is improved by including a shortcut connection, feature selection, and hyperparameter tuning. The performance of the deep learning model is evaluated using accuracy, association, and skill.
-
-![Schematic of the track-pattern-based model and deep learning model](/assets/ml_tc.png)
-
-<br>Related article:
-- Cheung, H. M., Ho, C. H., Chang, M., Kim, D., Kim, J., & Choi, W. (2021). <a href="https://doi.org/10.1175/WAF-D-20-0102.1" target="_blank">Development of a track-pattern-based medium-range tropical cyclone forecasting system for the western North Pacific</a>. _Weather and Forecasting_, 36(4), 1505-1518.
-- Cheung, H. M., Ho, C. H., & Chang, M. (2022). <a href="https://journals.ametsoc.org/view/journals/aies/1/4/AIES-D-21-0003.1.xml" target="_blank">Hybrid neural network models for postprocessing medium-range forecasts of tropical cyclone tracks over the western North Pacific</a>. _Artificial Intelligence for the Earth Systems_, 1(4), e210003.
+- [Machine learning models for tropical cyclone track forecast](#machine-learning-models-for-tropical-cyclone-track-forecast)
 
 <hr style="border:2px solid gray">
 
@@ -56,3 +42,17 @@ Also read this <a href="https://communities.springernature.com/posts/greenhouse-
 
 <br>Related article:
 - Cheung, H. M., & Chu, J. E. (2023). <a href="https://www.nature.com/articles/s41612-023-00470-8" target="_blank">Global increase in destructive potential of extratropical transition events in response to greenhouse warming</a>. _npj Climate and Atmospheric Science_, 6(1), 137.
+
+<hr style="border:2px solid gray">
+
+## Machine learning models for tropical cyclone track forecast
+
+Physical models have long been the tool for making weather forecasts. Owing to the advancement of computer resources and the availability of tremendous amount of data, machine learning algorithms for weather forecast has gained popularity in recent years. During my PhD, I developed two machine learning models for improving TC track forecast in the medium range (forecast lead time >5 days). 
+
+The first model (track-pattern-based model) applies the fuzzy _c_-mean clustering method on historical TC tracks similar to an operational 5-day forecast track; makes predictions based on each track pattern; and combines the forecast for each track pattern to form the final forecast. The second model uses different classes of artificial neural networks in concert to correct the TC track predicted by a global weather forecast model (GEFS). The neural network model is improved by including a shortcut connection, feature selection, and hyperparameter tuning. The performance of the deep learning model is evaluated using accuracy, association, and skill.
+
+![Schematic of the track-pattern-based model and deep learning model](/assets/ml_tc.png)
+
+<br>Related article:
+- Cheung, H. M., Ho, C. H., Chang, M., Kim, D., Kim, J., & Choi, W. (2021). <a href="https://doi.org/10.1175/WAF-D-20-0102.1" target="_blank">Development of a track-pattern-based medium-range tropical cyclone forecasting system for the western North Pacific</a>. _Weather and Forecasting_, 36(4), 1505-1518.
+- Cheung, H. M., Ho, C. H., & Chang, M. (2022). <a href="https://journals.ametsoc.org/view/journals/aies/1/4/AIES-D-21-0003.1.xml" target="_blank">Hybrid neural network models for postprocessing medium-range forecasts of tropical cyclone tracks over the western North Pacific</a>. _Artificial Intelligence for the Earth Systems_, 1(4), e210003.
