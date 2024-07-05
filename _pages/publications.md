@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Book chapter:
-1. J.-E. Chu*, & <b>Cheung, H. M.</b>: Extratropical Transition of Tropical Cyclones in a Changing Climate. Advances in Hurricane Risk in a Changing Climate, Springer, Cham. (Accepted)
+1. J.-E. Chu*, & <b>Cheung, H. M.</b>: Extratropical Transition of Tropical Cyclones in a Changing Climate. <a href="https://link.springer.com/book/9783031631856" target="_blank">Advances in Hurricane Risk in a Changing Climate</a>, Springer, Cham. (Accepted)
 
 In review:
 1. <b>Cheung, H. M.</b>, & Chu, J. E.* (2024). Discernability of the Vertical Vortex Structure of Pre-existing Disturbances and Their Implication for Tropical Cyclone Formation. Submitted to  _npj Climate and Atmospheric Science_.
