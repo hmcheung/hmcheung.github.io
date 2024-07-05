@@ -27,7 +27,7 @@ redirect_from:
 <hr style="border:2px solid gray">
 
 **2024 June—Present**
-<br>**Research Professor**
+<br>**Postdoctoral Researcher**
 <br>Ewha Womans University, South Korea
 <br>P.I.: Prof. Chang-Hoi Ho
 
