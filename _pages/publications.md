@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Journal articles (under review):
-1. Du, X., Chu, J.-E., Jin, F.-F., & <b>Cheung, H. M.</b>: Global coupled dynamics of tropical easterly waves and tropical cyclone genesis. . _npj Climate and Atmospheric Science_.
+1. Du, X., Chu, J.-E., Jin, F.-F., & <b>Cheung, H. M.</b>: Global coupled dynamics of tropical easterly waves and tropical cyclone genesis. _npj Climate and Atmospheric Science_.
 
 Book chapter:
 1. Chu*, J.-E., & <b>Cheung, H. M.</b>: Extratropical Transition of Tropical Cyclones in a Changing Climate. <a href="https://link.springer.com/chapter/10.1007/978-3-031-63186-3_2" target="_blank">Advances in Hurricane Risk in a Changing Climate</a>, Hurricane Risk, vol 3. Springer, Cham.
