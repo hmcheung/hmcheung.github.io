@@ -27,30 +27,30 @@ redirect_from:
 <hr style="border:2px solid gray">
 
 **2024 June—Present**
-<br>**Postdoctoral Researcher**
+<br>**Research Professor**
 <br>Ewha Womans University, South Korea
-<br>P.I.: Prof. Chang-Hoi Ho
+<br>Advisor: Prof. Chang-Hoi Ho
 
 **2022 August—2024 April**
 <br>**Postdoctoral Researcher**
 <br>City University of Hong Kong, Hong Kong
-<br>P.I.: Prof. Jung-Eun Chu
+<br>Advisor: Prof. Jung-Eun Chu
 
 **2022 June—August**
 <br>**Research Assistant**
 <br>The University of Hong Kong, Hong Kong
-<br>P.I.: Dr. Yun Fat Lam
+<br>Advisor: Dr. Yun Fat Lam
 
 **2012—2014**
 <br>**Research Assistant**
 <br>City University of Hong Kong, Hong Kong
-<br>P.I.: Dr. Yun Fat Lam
+<br>Advisor: Dr. Yun Fat Lam
 
 ## Award
 
 <hr style="border:2px solid gray">
 
-**2015—2018**
+**2015—2017**
 <br>**SNU Global Scholarship** (full tuition)
 
 
