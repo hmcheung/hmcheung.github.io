@@ -26,8 +26,3 @@ Peer-reviewed journal articles:
 1. Kuhlmann, G.* , Lam, Y. F.*, <b>Cheung, H. M.</b>, Hartl, A., Fung, J. C. H., Chan, P. W., & Wenig, M. O. (2015). <a href="https://doi.org/10.5194/acp-15-5627-2015" target="_blank">Development of a custom OMI NO 2 data product for evaluating biases in a regional chemistry transport model</a>. _Atmospheric Chemistry and Physics_, 15(10), 5627-5644.
    
 1. Kuhlmann, G., Hartl, A., <b>Cheung, H. M.</b>, Lam, Y. F.*, & Wenig, M. O. (2014). <a href="https://doi.org/10.5194/amt-7-451-2014" target="_blank">A novel gridding algorithm to create regional trace gas maps from satellite observations</a>. _Atmospheric Measurement Techniques_, 7(2), 451-467.
-
-Journal articles (under review):
-1. Du, X., Chu, J.-E.*, Jin, F.-F., & <b>Cheung, H. M.</b>: Global coupled dynamics of tropical easterly waves and tropical cyclone genesis. _npj Climate and Atmospheric Science_.
-
-1. <b>Cheung, H. M.</b>, Chu, J.-E.*: Discernability of the Vertical Vortex Structure of Pre-existing Disturbances and Their Implication for Tropical Cyclone Formation. _Weather and Climate Extreme_.
