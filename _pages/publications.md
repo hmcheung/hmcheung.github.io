@@ -9,6 +9,8 @@ Book chapter:
 1. Chu, J.-E.*, & <b>Cheung, H. M.</b> (2024). <a href="https://link.springer.com/chapter/10.1007/978-3-031-63186-3_2" target="_blank">Extratropical Transition of Tropical Cyclones in a Changing Climate</a>. Advances in Hurricane Risk in a Changing Climate, Hurricane Risk, vol 3. Springer, Cham.
 
 Peer-reviewed journal articles:
+1.	<b>Cheung, H. M.</b>*, C.-H. Ho*, and J.-E. Chu: Extratropical transition pathways of tropical cyclones and their role in storm intensity and destructiveness. _iScience_. (Accepted)
+
 1. Kim, K. Y., Ho, C. H., Oh, H. R., Choi, W., Kim, J., & <b>Cheung, H. M.</b> (2025). <a href="https://link.springer.com/article/10.1007/s00382-025-07703-x" target="_blank">High PM2. 5 episodes in Seoul, Korea, associated with Siberian High intensity</a>. _Climate Dynamics_, 63(5), 1-20.
 
 1. Du, X., Chu, J. E.*, Jin, F. F., & <b>Cheung, H. M.</b> (2025). <a href="https://www.nature.com/articles/s41612-025-01014-y" target="_blank">Global coupled dynamics of tropical easterly waves and tropical cyclone genesis</a>. _npj Climate and Atmospheric Science_, 8(1), 125.
