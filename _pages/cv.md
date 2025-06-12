@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-(My full CV can be downloaded [here](/files/cv_steven.pdf))
-
 ## Education
 
 <hr style="border:2px solid gray">
