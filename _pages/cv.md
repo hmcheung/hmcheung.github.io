@@ -44,15 +44,6 @@ redirect_from:
 <br>City University of Hong Kong, Hong Kong
 <br>Advisor: Dr. Yun Fat Lam
 
-## Award
-
-<hr style="border:2px solid gray">
-
-**2015—2017**
-<br>**SNU Global Scholarship** (full tuition)
-
-
-
 
 ## Skills
 
