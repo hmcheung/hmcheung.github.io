@@ -36,12 +36,15 @@ In addition to the East Asian Summer Monsoon, TCs are another major contributor 
 
 ![An example of tropical cyclone and extratropical cyclone](/assets/tc_etc.png)
 
-When TCs move to the mid-latitudes, they oftentimes undergo extratropical transition (ET) by which they change their structure. Upon transforming into extratropical cyclones (ETCs), they tend to impact larger areas and thus larger populations. In our study, we used a state-of-the-art Earth system model to examine the changes in global ET activities under increased concentrations of CO<sub>2</sub> in the atmosphere, with a focus on the destructiveness of the transitioned storms. 
+When TCs move into the mid‑latitudes, they often transform from compact, warm‑core systems into expansive, cold‑core extratropical cyclones that affect much larger areas and populations. In our latest study, we analyzed 445 western North Pacific storms and identified three objectively defined ET pathways—pinpointing which transitions are most common and which drive the highest post‑transition destructiveness.
+
+In a separate line of work, we used a state‑of‑the‑art Earth system model to assess how elevated atmospheric CO₂ concentrations will reshape global ET activity and the destructiveness of transitioned storms under future‑climate scenarios.
 
 Also read this <a href="https://communities.springernature.com/posts/greenhouse-warming-can-lead-to-greater-destructiveness-in-the-mid-latitudes-by-tropical-cyclones" target="_blank">blog post</a>
 
 <br>Related article:
 - Cheung, H. M., & Chu, J. E. (2023). <a href="https://www.nature.com/articles/s41612-023-00470-8" target="_blank">Global increase in destructive potential of extratropical transition events in response to greenhouse warming</a>. _npj Climate and Atmospheric Science_, 6(1), 137.
+- Cheung, H. M., Ho, C. H., & Chu, J. E. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2589004225010752" target="_blank">Extratropical transition pathways of tropical cyclones and their role in storm intensity and destructiveness</a>. _iScience_, 28(7), 112814.
 
 <hr style="border:2px solid gray">
 
