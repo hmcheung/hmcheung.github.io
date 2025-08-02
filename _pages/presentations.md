@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. IAMAS-IACS-IAPSO Joint Assembly (BACO), July 2025 (Busan, South Korea)
-<br>*<a href="https://baco-25.org/new/sub2/subPdf.asp?idx=11208" target="_blank">Extratropical transition pathways of tropical cyclones and their role in storm intensity and destructiveness</a>*
+<br>*<a href="https://baco-25.org/new/sub2/subPdf.asp?idx=11208" target="_blank">Extratropical transition pathways of tropical cyclones and their role in storm intensity and destructiveness</a>* (Poster)
 
 1. European Geosciences Union General Assembly, April 2023 (Vienna, Austria)
 <br>*<a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-4736.html" target="_blank">Increasing destructive potential of extratropical transition events in response to higher CO2 concentration in global climate model</a>*
