@@ -11,7 +11,7 @@ Book chapter:
 Peer-reviewed journal articles:
 1.	<b>Cheung, H. M.* </b>, Ho, C. H.*, & Chu, J. E. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2589004225010752" target="_blank">Extratropical transition pathways of tropical cyclones and their associated storm intensity and destructiveness</a>. _iScience_, 28(7), 112814.
 
-1. Kim, K. Y., Ho, C. H.*, Oh, H. R., Choi, W., Kim, J., & <b>Cheung, H. M.</b> (2025). <a href="https://link.springer.com/article/10.1007/s00382-025-07703-x" target="_blank">High PM2. 5 episodes in Seoul, Korea, associated with Siberian High intensity</a>. _Climate Dynamics_, 63(5), 1-20.
+1. Kim, K. Y., Ho, C. H.*, Oh, H. R., Choi, W., Kim, J., & <b>Cheung, H. M.</b> (2025). <a href="https://link.springer.com/article/10.1007/s00382-025-07703-x" target="_blank">High PM2.5 episodes in Seoul, Korea, associated with Siberian High intensity</a>. _Climate Dynamics_, 63(5), 1-20.
 
 1. Du, X., Chu, J. E.*, Jin, F. F., & <b>Cheung, H. M.</b> (2025). <a href="https://www.nature.com/articles/s41612-025-01014-y" target="_blank">Global coupled dynamics of tropical easterly waves and tropical cyclone genesis</a>. _npj Climate and Atmospheric Science_, 8(1), 125.
 
