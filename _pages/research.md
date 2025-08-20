@@ -27,13 +27,13 @@ In addition to the East Asian Summer Monsoon, TCs are another major contributor 
 ![How typhoon induce air pollution episode](/assets/tc_aq.jpg)
 
 <br>Related articles:
-- Zeng, S., Chu, J. E., Cheung, H. M., Baek, K., Kim, H. K., & Son, J. H. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S1352231025004728?via%3Dihub" target="_blank">Seasonal Variations in PM2.5 levels in Hong Kong Induced by Eastern and Western Tropical Cyclones</a>. _Atmospheric Environment_. 361, 121497.
 - Cheung, H. M., Ho, C. H., Jhun, J. G., Park, D. S. R., & Yang, S. (2018). <a href="https://doi.org/10.1007/s00382-017-4014-1" target="_blank">Tropical cyclone signals on rainfall distribution during strong vs. weak Changma/Baiu years</a>. _Climate Dynamics_, 51, 2311-2320.
 - Lam, Y. F., Cheung, H. M., & Ying, C. C. (2018). <a href="https://doi.org/10.1016/j.scitotenv.2017.08.100" target="_blank">Impact of tropical cyclone track change on regional air quality</a>. _Science of the Total Environment_, 610, 1347-1355.
+- Zeng, S., Chu, J. E., Cheung, H. M., Baek, K., Kim, H. K., & Son, J. H. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S1352231025004728?via%3Dihub" target="_blank">Seasonal Variations in PM2.5 levels in Hong Kong Induced by Eastern and Western Tropical Cyclones</a>. _Atmospheric Environment_. 361, 121497.
 
 <hr style="border:2px solid gray">
 
-## Extratropical Transition
+## Extratropical Transition of Tropical Cyclones: Pathways and Future Projections
 
 ![An example of tropical cyclone and extratropical cyclone](/assets/tc_etc.png)
 
