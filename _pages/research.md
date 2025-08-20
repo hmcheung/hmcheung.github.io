@@ -12,7 +12,7 @@ My research mainly focuses on the impacts and the track forecast of tropical cyc
 
 <hr style="border:2px solid gray">
 
-## Tropical Cyclones and Associated Environmental Hazards
+## Atmospheric and Climatic Impacts of Tropical Cyclones
 
 <ins>Rainfall</ins>
 <br>
