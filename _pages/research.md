@@ -7,7 +7,7 @@ author_profile: true
 
 My research mainly focuses on the impacts and the track forecast of tropical cyclones (TCs) over East Asia.
 - [Atmospheric and Climatic Impacts of Tropical Cyclones](#atmospheric-and-climatic-impacts-of-tropical-cyclones)
-- [Extratropical Transition of Tropical Cyclones: Pathways and Future Projections](#extratropical-transition-of-tropical-cyclones:-pathways-and-future-projections)
+- [Extratropical Transition of Tropical Cyclones: Pathways and Future Projections](#extratropical-transition-of-tropical-cyclones-pathways-and-future-projections)
 - [Machine Learning for Tropical Cyclone Track Forecast](#machine-learning-for-tropical-cyclone-track-forecast)
 
 <hr style="border:2px solid gray">
