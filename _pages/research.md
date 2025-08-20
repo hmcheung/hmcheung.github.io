@@ -12,9 +12,9 @@ My research mainly focuses on the impacts and the track forecast of tropical cyc
 
 <hr style="border:2px solid gray">
 
-## Atmospheric and Climatic Impacts of Tropical Cyclones
+## Tropical Cyclones and Associated Environmental Hazards
 
-<ins>Hydrological impact</ins>
+<ins>Rainfall</ins>
 <br>
 In addition to the East Asian Summer Monsoon, TCs are another major contributor to summer rainfall over East Asia, especially the coastal region. The variability of both TC-induced rainfall and monsoonal rainfall strongly modulates the hydrological cycle and related climate risk in the region. This study analyzes the contribution of TCs to the variability of summertime rainfall in the years of strong versus weak Changma/Baiu (the monsoon season in Korea/Japan). The possible large-scale driver of TC- and non-TC-induced rainfall variability is also examined.
 
