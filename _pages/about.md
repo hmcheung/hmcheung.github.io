@@ -8,4 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Professor in Climate Physics Laboratory (led by Prof. Chang-Hoi Ho) at Ewha Womans University, South Korea. My work focuses on several aspects of <b>tropical cyclones</b>, including their climatology, extratropical transition, genesis, impact on regional air quality and heat extremes, and track forecasting. Through these wide-ranging topics, which encompass long-term future climate to short-term weather time-scale, I have acquired diverse experience including analyzing large reanalysis datasets and weather forecast/climate model output, running numerical models, and developing deep learning models.
+I am a Research Professor at the Climate Physics Laboratory (led by Prof. Chang-Hoi Ho) at Ewha Womans University in Seoul, South Korea. My research aims to understand and predict tropical cyclones across multiple timescales, from their role in the long-term climate system to their immediate weather impacts.
+
+My primary research areas include:
+
+- TC life cycle: Climatology, genesis, and extratropical transition.
+- TC impacts: Influence on regional air quality and the occurrence of heat extremes.
+- TC forecasting: Developing novel deep learning models for track prediction.
+
+To address these complex topics, my approach integrates large-scale data analysis of reanalysis and model outputs, numerical modeling, and the development of advanced machine learning systems.
