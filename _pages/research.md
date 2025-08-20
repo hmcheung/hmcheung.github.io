@@ -12,7 +12,7 @@ My research mainly focuses on the impacts and the track forecast of tropical cyc
 
 <hr style="border:2px solid gray">
 
-## Impacts of tropical cyclones
+## Atmospheric and Climatic Impacts of Tropical Cyclones
 
 <ins>Hydrological impact</ins>
 <br>
@@ -33,7 +33,7 @@ In addition to the East Asian Summer Monsoon, TCs are another major contributor 
 
 <hr style="border:2px solid gray">
 
-## Extratropical transition
+## Extratropical Transition
 
 ![An example of tropical cyclone and extratropical cyclone](/assets/tc_etc.png)
 
@@ -47,7 +47,7 @@ In a separate line of work, we used a state‑of‑the‑art Earth system model 
 
 <hr style="border:2px solid gray">
 
-## Machine learning models for tropical cyclone track forecast
+## Machine Learning Models for Tropical Cyclone Track Forecast
 
 Physical models have long been the tool for making weather forecasts. Owing to the advancement of computer resources and the availability of tremendous amount of data, machine learning algorithms for weather forecast has gained popularity in recent years. I developed two machine learning models for improving TC track forecast in the medium range (forecast lead time >5 days).
 
