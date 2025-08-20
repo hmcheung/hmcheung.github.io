@@ -13,7 +13,7 @@ I am a Research Professor at the Climate Physics Laboratory (led by Prof. Chang-
 My primary research areas include:
 
 - TC life cycle: Climatology, genesis, and extratropical transition.
-- TC impacts: Influence on regional air quality and the occurrence of heat extremes.
+- TC impacts: Influence on regional rainfall distribution and air quality, and the occurrence of heat extremes.
 - TC forecasting: Developing novel deep learning models for track prediction.
 
 To address these complex topics, my approach integrates large-scale data analysis of reanalysis and model outputs, numerical modeling, and the development of advanced machine learning systems.
