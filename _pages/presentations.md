@@ -11,6 +11,9 @@ author_profile: true
 1. European Geosciences Union General Assembly, April 2023 (Vienna, Austria)
 <br>*<a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-4736.html" target="_blank">Increasing destructive potential of extratropical transition events in response to higher CO2 concentration in global climate model</a>*
 
+1. **Invited talk**, Climate Extreme Laboratory, School of Energy and Environment, City University of Hong Kong, February 2023 (Virtual)
+<br>*Mini Workshop on AI application in climate and atmospheric science*
+
 1. **Invited talk**, National Institute of Meteorological Sciences, Korea Meteorological Administration, October 2022 (Virtual)
 <br>*Medium-range forecast of tropical cyclone track over the western North Pacific: track-pattern-based model and artificial neural network model*
 
