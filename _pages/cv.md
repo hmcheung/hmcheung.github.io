@@ -43,14 +43,3 @@ redirect_from:
 <br>**Research Assistant**
 <br>City University of Hong Kong, Hong Kong
 <br>Advisor: Dr. Yun Fat Lam
-
-
-## Skills
-
-<hr style="border:2px solid gray">
-
-- Unix shell: bash, csh
-- Programming languages: Python, NCL, FORTRAN, MATLAB, GrADS, IDL, C++, LabVIEW
-- Deep learning API: Keras, Tensorflow
-- Numerical models: compile and run WRF, CMAQ, CESM (including required libraries)
-- Language: native in Cantonese, fluent in English and Mandarin
