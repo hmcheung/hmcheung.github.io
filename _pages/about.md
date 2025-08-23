@@ -16,4 +16,4 @@ My primary research areas include:
 - TC impacts: Influence on regional rainfall distribution and air quality, and the occurrence of heat extremes.
 - TC forecasting: Developing novel deep learning models for track prediction.
 
-To address these complex topics, my approach integrates large-scale data analysis of reanalysis and model outputs, numerical modeling, and the development of advanced machine learning systems.
+To address these complex topics, my approach integrates reanalysis and model outputs, numerical modeling, and the development of advanced machine learning models.
