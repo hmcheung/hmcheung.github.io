@@ -10,7 +10,7 @@ Book chapter:
 
 Peer-reviewed journal articles:
 1. <b>Cheung, H. M.</b>, & Chu, J. E.* (2025). <a href="" target="_blank">Discernability of the Vertical Vortex Structure of Pre-existing Disturbances and Their Implication for Tropical Cyclone Formation</a>. _Weather and Climate Extremes_. (Accepted)
-2. 
+
 1. Zeng, S., Chu, J. E.*, <b>Cheung, H. M.</b>, Baek, K., Kim, H. K., & Son, J. H. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S1352231025004728?via%3Dihub" target="_blank">Seasonal Variations in PM2.5 levels in Hong Kong Induced by Eastern and Western Tropical Cyclones</a>. _Atmospheric Environment_. 361, 121497.
 
 1.	<b>Cheung, H. M.* </b>, Ho, C. H.*, & Chu, J. E. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2589004225010752" target="_blank">Extratropical transition pathways of tropical cyclones and their associated storm intensity and destructiveness</a>. _iScience_, 28(7), 112814.
