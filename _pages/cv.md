@@ -33,13 +33,3 @@ redirect_from:
 <br>**Postdoctoral Researcher**
 <br>City University of Hong Kong, Hong Kong
 <br>Advisor: Prof. Jung-Eun Chu
-
-**2022 June—August**
-<br>**Research Assistant**
-<br>The University of Hong Kong, Hong Kong
-<br>Advisor: Dr. Yun Fat Lam
-
-**2012—2014**
-<br>**Research Assistant**
-<br>City University of Hong Kong, Hong Kong
-<br>Advisor: Dr. Yun Fat Lam
