@@ -50,7 +50,7 @@ In a separate line of work, we used a state‑of‑the‑art Earth system model 
 <br>Related articles:
 - Cheung, H. M., & Chu, J. E. (2023). <a href="https://www.nature.com/articles/s41612-023-00470-8" target="_blank">Global increase in destructive potential of extratropical transition events in response to greenhouse warming</a>. _npj Climate and Atmospheric Science_, 6(1), 137.
 - Cheung, H. M., Ho, C. H., & Chu, J. E. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2589004225010752" target="_blank">Extratropical transition pathways of tropical cyclones and their role in storm intensity and destructiveness</a>. _iScience_, 28(7), 112814.
-- <b>Cheung, H. M.</b>, & Chu, J. E. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2212094725000623" target="_blank">Discernability of the Vertical Vortex Structure of Pre-existing Disturbances and Their Implication for Tropical Cyclone Formation</a>. _Weather and Climate Extremes_. 50, 100804
+- Cheung, H. M., & Chu, J. E. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2212094725000623" target="_blank">Discernability of the Vertical Vortex Structure of Pre-existing Disturbances and Their Implication for Tropical Cyclone Formation</a>. _Weather and Climate Extremes_. 50, 100804
 
 <hr style="border:2px solid gray">
 
