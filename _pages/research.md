@@ -42,11 +42,10 @@ My research uses machine learning to classify the vertical vortex structures of 
 
 <ins>Extratropical Transition of Tropical Cyclones: Pathways and Future Projections</ins>
 <br>
-![An example of tropical cyclone and extratropical cyclone](/assets/tc_etc.png)
-
 When TCs move into the mid‑latitudes, they often transform from compact, warm‑core systems into expansive, cold‑core extratropical cyclones that affect much larger areas and populations. In our latest study, we analyzed 445 western North Pacific TCs and identified three objectively defined ET pathways—pinpointing which transitions are most common and which drive the highest post‑transition destructiveness.
 
 In a separate line of work, we used a state‑of‑the‑art Earth system model to assess how elevated atmospheric CO₂ concentrations will reshape global ET activity and the destructiveness of transitioned storms under future‑climate scenarios. Also read this <a href="https://communities.springernature.com/posts/greenhouse-warming-can-lead-to-greater-destructiveness-in-the-mid-latitudes-by-tropical-cyclones" target="_blank">blog post</a>
+![An example of tropical cyclone and extratropical cyclone](/assets/tc_etc.png)
 
 <br>Related articles:
 - Cheung, H. M., & Chu, J. E. (2023). <a href="https://www.nature.com/articles/s41612-023-00470-8" target="_blank">Global increase in destructive potential of extratropical transition events in response to greenhouse warming</a>. _npj Climate and Atmospheric Science_, 6(1), 137.
