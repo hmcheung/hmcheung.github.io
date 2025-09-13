@@ -37,7 +37,7 @@ In addition to the East Asian Summer Monsoon, TCs are another major contributor 
 
 <ins>Vortex Structure of Pre-existing Disturbances and Tropical Cyclogenesis</ins>
 <br>
-My research uses machine learning to classify the vertical vortex structures of the pre-existing disturbances that lead to tropical cyclone (TC) formation. We identified four distinct structures, finding that the vertical extent of a storm's vorticity is a more critical factor for subsequent intensification than its magnitude.
+My research uses machine learning to classify the vertical vortex structures of the pre-existing disturbances that lead to tropical cyclone formation. We identified four distinct structures, finding that the vertical extent of a storm's vorticity is a more critical factor for subsequent intensification than its magnitude.
 
 
 <ins>Extratropical Transition of Tropical Cyclones: Pathways and Future Projections</ins>
