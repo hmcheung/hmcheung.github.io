@@ -7,7 +7,7 @@ author_profile: true
 
 My research mainly focuses on the impacts, life cycle, and track forecasting of tropical cyclones (TCs) over East Asia.
 - [Atmospheric and Climatic Impacts of Tropical Cyclones](#atmospheric-and-climatic-impacts-of-tropical-cyclones)
-- [Extratropical Transition of Tropical Cyclones: Pathways and Future Projections](#extratropical-transition-of-tropical-cyclones-pathways-and-future-projections)
+- [Tropical Cyclone Genesis and Dissipation Pathways](#tropical-cyclone-genesis-and-dissipation-pathways)
 - [Machine Learning for Tropical Cyclone Track Forecast](#machine-learning-for-tropical-cyclone-track-forecast)
 
 <hr style="border:2px solid gray">
@@ -33,8 +33,15 @@ In addition to the East Asian Summer Monsoon, TCs are another major contributor 
 
 <hr style="border:2px solid gray">
 
-## Extratropical Transition of Tropical Cyclones: Pathways and Future Projections
+## Tropical Cyclone Genesis and Dissipation Pathways
 
+<ins>Vortex Structure of Pre-existing Disturbances and Tropical Cyclogenesis</ins>
+<br>
+My research uses machine learning to classify the vertical vortex structures of the pre-existing disturbances that lead to tropical cyclone (TC) formation. We identified four distinct structures, finding that the vertical extent of a storm's vorticity is a more critical factor for subsequent intensification than its magnitude.
+
+
+<ins>Extratropical Transition of Tropical Cyclones: Pathways and Future Projections</ins>
+<br>
 ![An example of tropical cyclone and extratropical cyclone](/assets/tc_etc.png)
 
 When TCs move into the mid‑latitudes, they often transform from compact, warm‑core systems into expansive, cold‑core extratropical cyclones that affect much larger areas and populations. In our latest study, we analyzed 445 western North Pacific TCs and identified three objectively defined ET pathways—pinpointing which transitions are most common and which drive the highest post‑transition destructiveness.
@@ -44,6 +51,7 @@ In a separate line of work, we used a state‑of‑the‑art Earth system model 
 <br>Related articles:
 - Cheung, H. M., & Chu, J. E. (2023). <a href="https://www.nature.com/articles/s41612-023-00470-8" target="_blank">Global increase in destructive potential of extratropical transition events in response to greenhouse warming</a>. _npj Climate and Atmospheric Science_, 6(1), 137.
 - Cheung, H. M., Ho, C. H., & Chu, J. E. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2589004225010752" target="_blank">Extratropical transition pathways of tropical cyclones and their role in storm intensity and destructiveness</a>. _iScience_, 28(7), 112814.
+- <b>Cheung, H. M.</b>, & Chu, J. E.* (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2212094725000623" target="_blank">Discernability of the Vertical Vortex Structure of Pre-existing Disturbances and Their Implication for Tropical Cyclone Formation</a>. _Weather and Climate Extremes_. 50, 100804
 
 <hr style="border:2px solid gray">
 
