@@ -14,6 +14,6 @@ My primary research areas include:
 
 - TC life cycle: Climatology, genesis, and extratropical transition.
 - TC impacts: Influence on regional rainfall distribution and air quality, and the occurrence of heat extremes.
-- TC forecasting: Developing novel deep learning models for track prediction.
+- TC forecasting: Developing deep learning models for track prediction.
 
 To address these complex topics, my approach integrates reanalysis and model outputs, numerical modeling, and the development of advanced machine learning models.
